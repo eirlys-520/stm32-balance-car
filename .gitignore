@@ -1,0 +1,28 @@
+# Keil MDK 编译产物
+cubemx_config/MDK-ARM/cubemx_config/
+*.o
+*.d
+*.crf
+*.dep
+*.lst
+*.map
+*.lnp
+*.axf
+*.elf
+*.hex
+*.bin
+*.htm
+*.build_log*
+
+# Keil 个人界面/调试配置（含机器名，勿上传）
+*.uvguix.*
+*.uvoptx
+*.bak
+*.orig
+*.rej
+JLinkLog.txt
+DebugConfig/
+
+# 系统
+Thumbs.db
+.DS_Store
